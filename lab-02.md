@@ -1,7 +1,5 @@
 # Lab Sheet  02 : Backend Architecture & RESTful API Development using FastAPI
 
-> Based on Chapter 2: *Fundamentals of Backend Architecture*
-
 
 ## Learning Objectives
 
