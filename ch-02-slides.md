@@ -1,10 +1,36 @@
 ---
 marp: true
-size: A4
-orientation: portrait
-paginate: true
 theme: default
-title: "Chapter 2 — Fundamentals of Backend Architecture"
+size: 16:9
+paginate: true
+title: JavaScript
+description: xxx
+backgroundImage: url('wallpaper.001.jpeg')
+backgroundSize: cover
+footer: "IIT67-272 | Chapter 2: Fundamentals of Backend Architecture"
+
+style: |
+  section {
+    color: blue; /* สีตัวอักษรทั้งหมด */
+  }
+  h1 {
+    color: black;
+    font-size: 56px !important;
+    line-height: 1.1;
+    margin: 0.2em 0 0.4em;
+    
+  }
+  h2 {
+    color: black;
+    font-size: 56px !important;
+    line-height: 1.1;
+    margin: 0.2em 0 0.4em;
+    
+  }
+  h3 {
+    color: black;
+  }
+
 ---
 
 # Chapter 2  

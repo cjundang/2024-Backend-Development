@@ -1,11 +1,40 @@
 ---
 marp: true
 theme: default
+size: 16:9
 paginate: true
-title: Java and OOP Review
+title: JavaScript
+description: xxx
+backgroundImage: url('wallpaper.001.jpeg')
+backgroundSize: cover
+footer: "IIT67-272 | Chapter 1: Java and OOP Review"
+
+style: |
+  section {
+    color: blue; /* สีตัวอักษรทั้งหมด */
+  }
+  h1 {
+    color: black;
+    font-size: 56px !important;
+    line-height: 1.1;
+    margin: 0.2em 0 0.4em;
+    
+  }
+  h2 {
+    color: black;
+    font-size: 56px !important;
+    line-height: 1.1;
+    margin: 0.2em 0 0.4em;
+    
+  }
+  h3 {
+    color: black;
+  }
+
 ---
 
-# ☕ Java and OOP Review
+
+#  Java and OOP Review
 ### For High School IT Students  
 > Duration: 90 minutes  
 > Language: Java Programming
@@ -296,13 +325,6 @@ public class Main {
 3. Why do we use **getter** and **setter** methods?
 4. What is the role of an **interface**?
 5. What happens when we divide by zero in Java?
-
----
-
-# 🎓 Final Thought
-
-> “Object-Oriented Programming isn’t just code —
-> it’s a way to **think** about problems and solutions.”
 
 ---
 
