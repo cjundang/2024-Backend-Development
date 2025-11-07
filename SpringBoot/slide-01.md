@@ -1,18 +1,41 @@
 ---
 marp: true
 theme: default
-class: lead
+size: 16:9
 paginate: true
+title: JavaScript
+description: xxx
+backgroundImage: url('wallpaper.001.jpeg')
+backgroundSize: cover
+footer: "IIT67-272 | Introduction to Backend Programming Review"
+
+style: |
+  section {
+    color: blue; /* สีตัวอักษรทั้งหมด */
+  }
+  h1 {
+    color: black;
+    font-size: 56px !important;
+    line-height: 1.1;
+    margin: 0.2em 0 0.4em;
+    
+  }
+  h2 {
+    color: black;
+    font-size: 56px !important;
+    line-height: 1.1;
+    margin: 0.2em 0 0.4em;
+    
+  }
+  h3 {
+    color: black;
+  }
+
 ---
 
 # บทที่ 1  
 ## Introduction to Backend Programming
 
----
-## test 
-```js
-let a = 10
-```
 
 ---
 ## หัวข้อที่จะเรียนรู้
